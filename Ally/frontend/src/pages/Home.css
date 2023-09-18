@@ -1,0 +1,14 @@
+.home__bg{
+    background-image: url(https://cornwall-plus.co.uk/wp-content/uploads/2022/02/MUGA-football-2-for-web-1024x684.jpg);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+
+}
+
+.home-message-icon{
+    margin-left: 10px;
+    display: inline-block;
+}

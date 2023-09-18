@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129704667662",
+    "project_id": "ally-45634",
+    "storage_bucket": "ally-45634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129704667662:android:817e8587a91982511eea5f",
+        "android_client_info": {
+          "package_name": "com.example.ally"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiXHoxvWbfCAyBhyFv4sJsV_R4VVIFTxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

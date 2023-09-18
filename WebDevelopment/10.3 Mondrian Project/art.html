@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+
+            .container{
+                height: 450px;
+                width: 450px;
+                background-color: black;
+                display: grid;
+                grid-template-columns:100px 100px 120px 80px ;
+                grid-template-rows:135px 165px 50px 50px ;
+                gap: 15px;
+            }
+
+            .box{
+                background-color: rgb(238, 235, 235);
+            }
+
+            .two{
+                grid-column: span 3;
+                grid-row: span 2;
+                background-color: rgb(189, 15, 15);
+            }
+
+            .four{
+                background-color: rgb(33, 95, 167);
+                grid-row: span 2;
+
+
+            }
+
+            .five{
+                grid-column: span 2;
+                grid-row: span 2;
+            }
+
+            .seven{
+                background-color: rgb(211, 211, 82);
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="box one"></div>
+            <div class="box two"></div>
+            <div class="box three"></div>
+            <div class="box four"></div>
+            <div class="box five"></div>
+            <div class="box six"></div>
+            <div class="box seven"></div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+.login__bg{
+    background-image: url(https://img.freepik.com/free-vector/access-control-system-abstract-concept_335657-3180.jpg);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
